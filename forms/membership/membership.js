@@ -11,7 +11,7 @@ wList.push(price[wishList])
     } else {
     members.push(inptName.value)
     lblMember.textContent= "You are not a member."
-*/
+
 
 btnMessage.onclick=function(){
     if (members.includes(inptName.value)) {
